@@ -117,7 +117,7 @@ When a user selects a movie and clicks Recommend, the app locates that movie's p
 > Add a screenshot or demo GIF of the running app here.
 
 ```
-![App Screenshot](https://github.com/ameybonde/Movie-Recommendation/blob/27b025c195abe0ce4fbee2e9d22d2aeda182c372/AppSS.png)
+![App Screenshot](AppSS.png)
 ```
 
 ---
