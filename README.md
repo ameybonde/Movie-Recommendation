@@ -112,6 +112,15 @@ The processed DataFrame and the similarity matrix are saved as `.pkl` files. Thi
 When a user selects a movie and clicks Recommend, the app locates that movie's position in the DataFrame, retrieves its row from the similarity matrix, sorts all other movies by their similarity score in descending order, and returns the top 5 results — skipping the selected movie itself.
 
 ---
+## 📸 Screenshots
+
+> Add a screenshot or demo GIF of the running app here.
+
+```
+![App Screenshot](https://github.com/ameybonde/Movie-Recommendation/blob/27b025c195abe0ce4fbee2e9d22d2aeda182c372/AppSS.png)
+```
+
+---
 
 ## ⚙️ Installation & Usage
 
@@ -139,16 +148,6 @@ Run `Movie_Recommendation.ipynb` from top to bottom. This creates `movie_dict.pk
 ### Step 5 — Launch the App
 ```bash
 streamlit run app.py
-```
-
----
-
-## 📸 Screenshots
-
-> Add a screenshot or demo GIF of the running app here.
-
-```
-![App Screenshot](https://github.com/ameybonde/Movie-Recommendation/blob/00521c758c56ffd61e353c28722a395d208b74ad/Screenshot%202026-05-18%20180538.png)
 ```
 
 ---
