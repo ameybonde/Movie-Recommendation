@@ -114,11 +114,8 @@ When a user selects a movie and clicks Recommend, the app locates that movie's p
 ---
 ## 📸 Screenshots
 
-> Add a screenshot or demo GIF of the running app here.
-
-```
-![App Screenshot](AppSS.png)
-```
+> Screenshot of website.
+> <img width="1919" height="1199" alt="AppSS" src="https://github.com/user-attachments/assets/d46c4493-597d-4b43-b7c2-53700db52b30" />
 
 ---
 
