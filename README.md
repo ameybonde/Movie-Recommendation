@@ -148,7 +148,7 @@ streamlit run app.py
 > Add a screenshot or demo GIF of the running app here.
 
 ```
-![App Screenshot](https://raw.githubusercontent.com/ameybonde/Movie-Recommendation/main/Screenshot 2026-05-18 180538.png)
+![App Screenshot](https://github.com/ameybonde/Movie-Recommendation/blob/00521c758c56ffd61e353c28722a395d208b74ad/Screenshot%202026-05-18%20180538.png)
 ```
 
 ---
