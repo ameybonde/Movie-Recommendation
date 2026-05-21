@@ -1,6 +1,6 @@
 import streamlit as st
 import pickle
-import pandas as pd
+import pandas as pd 
 
 movie_dict=pickle.load(open("movie_dict.pkl",'rb'))
 movies=pd.DataFrame(movie_dict)
